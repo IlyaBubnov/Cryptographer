@@ -1,4 +1,4 @@
-package Cryptographer;
+package Methods;
 
 public class CheckMethods {
 

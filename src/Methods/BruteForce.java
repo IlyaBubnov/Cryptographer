@@ -1,7 +1,7 @@
-package Cryptographer;
+package Methods;
 
-import static Cryptographer.Decrypt.decryptTxtFile;
-import static Cryptographer.Encrypt.encryptTxtFile;
+import static Methods.Decrypt.decryptTxtFile;
+import static Methods.Encrypt.encryptTxtFile;
 
 public class BruteForce {
 
